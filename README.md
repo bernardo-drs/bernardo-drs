@@ -2,19 +2,11 @@
 <h3 align="center">A passionate developper</h3>
 
 - 📫 How to reach me **bdarosasimoes2007@gmail.com**
+- 📚 I’m a Computer Science student
+- 🎮 I'm making some roblox games
+- 🎙️ Teaching roblox scripting on youtube
+- 🌱 I’m currently learning Java, C#
 
-<p>
-  📚 I’m a Computer Science student
-</p>
-<p>
-  🎮 I'm making some roblox games
-</p>
-<p>
-🎙️ Teaching roblox scripting on youtube
-</p>
-<p>
-  🌱 I’m currently learning Java, C#
-</p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/bernardo_drs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bernardo_drs" height="30" width="40" /></a>
