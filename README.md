@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bernardo</h1>
 <h3 align="center">A passionate developper</h3>
 
-- 📫 How to reach me **bdarosasimoes2007@gmail.com**
+- 📫 How to reach me **bdarosasimoes@gmail.com**
 - 📚 I’m a Computer Science student
 - 🎮 I'm making some roblox games
 - 🎙️ Teaching roblox scripting on youtube
