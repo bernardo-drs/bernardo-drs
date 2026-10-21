@@ -5,7 +5,7 @@
 - 📚 I’m a Computer Science student
 - 🎮 I'm making some roblox games
 - 🎙️ Teaching roblox scripting on youtube
-- 🌱 I’m currently learning Java, C#
+- 🌱 I’m currently learning Java, JS, PHP
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
